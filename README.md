@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RC2208
-- 👀 I’m interested in cyber security.
+- 👀 I’m interested in machine learning and cyber security.
 
 
 <!---
